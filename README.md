@@ -1,3 +1,5 @@
+> **Archived.** Development of poetry-simple_form continues in the Poetry monorepo at [roboruby/poetry](https://github.com/roboruby/poetry), under [`gems/poetry-simple_form`](https://github.com/roboruby/poetry/tree/main/gems/poetry-simple_form). This repository keeps the history and tags up to 0.1.5 and is read-only.
+
 # poetry-simple_form
 
 The **migration bridge** from simple_form to poetry. One initializer re-maps
